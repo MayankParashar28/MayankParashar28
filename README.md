@@ -11,7 +11,22 @@
 
 - 📫 How to reach me **mayankparashar2808@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">🌐 Connect with me</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <img width="12" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  <img width="12" />
+  <a href="https://YOUR_PORTFOLIO.com">
+    <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+  </a>
+</div>
+
 
 ###
 
