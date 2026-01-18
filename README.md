@@ -1,6 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayank Parashr</h1>
+<h3 align="center">Full-Stack Developer exploring AI/ML | Building impactful projects with modern technologies</h3>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankparashar28&label=Profile%20views&color=0e75b6&style=flat" alt="mayankparashar28" /> </p>
+
+- 🔭 I’m currently working on **AI-Powered Smart Resume & Job Matching Platform**
+
+- 👨‍💻 All of my projects are available at [https://mayankparashar.vercel.app/](https://mayankparashar.vercel.app/)
+
+- 📝 I regularly write articles on [https://lluminaa.vercel.app/](https://lluminaa.vercel.app/)
+
+- 📫 How to reach me **mayankparashar2808@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 
 ###
 
