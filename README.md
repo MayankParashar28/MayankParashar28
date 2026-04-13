@@ -14,7 +14,7 @@ Full-Stack Developer exploring AI/ML | Building impactful real-world products wi
 ---
 
 -  Currently building **AI-Powered Smart Resume & Job Matching Platform (JobLens)**
--  Portfolio: <a href="https://mayankparashar.vercel.app/">mayankparashar.vercel.app</a>
+-  Portfolio: <a href="https://mayankparashar.xyz/">mayankparashar.xyz</a>
 -  Blogs: <a href="https://lluminaa.vercel.app/">lluminaa.vercel.app</a>
 -  Reach me: **mayankparashar2808@gmail.com**
 
